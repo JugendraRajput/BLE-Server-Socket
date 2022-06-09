@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Server Socket</string>
+    <string name="hint_response">Waiting for response…</string>
+    <string name="hint_input">Enter here…</string>
+    <string name="send">Send</string>
+    <string name="clear">CLR</string>
+    <string name="connect">Conn</string>
+    <string name="ip">IP</string>
+    <string name="disconnect">Disc</string>
+</resources>
